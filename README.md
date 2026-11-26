@@ -17,7 +17,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a **Junior Software Developer** based in Turin, Italy, currently studying Software Development at **ITS Academy ICT Piemonte**.
 
@@ -35,7 +35,7 @@ Languages:  Italian (Native) | English (B2)
 
 ---
 
-## 🎓 Education
+## Education
 
 | Period | Qualification | Level |
 | :--- | :--- | :---: |
@@ -44,7 +44,7 @@ Languages:  Italian (Native) | English (B2)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming & Markup Languages
 
@@ -80,7 +80,7 @@ MySQL · SQLite · MongoDB · MariaDB · PostgreSQL · SQL
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -95,7 +95,7 @@ MySQL · SQLite · MongoDB · MariaDB · PostgreSQL · SQL
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -109,7 +109,7 @@ MySQL · SQLite · MongoDB · MariaDB · PostgreSQL · SQL
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
