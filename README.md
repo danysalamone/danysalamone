@@ -16,7 +16,26 @@
 </div>
 
 ---
+## 🌌 Event Horizon — My Portfolio
 
+<p align="center">
+  <a href="https://danielsalamone.pages.dev/">
+    <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-7C3AED?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Explore my portfolio" />
+  </a>
+</p>
+
+My personal developer portfolio and software distribution platform.
+
+- Software, web and mobile projects
+- Official software releases and downloads
+- GitHub analytics
+- Documentation and curriculum vitae
+- English and Italian support
+- SHA-256 download verification
+
+**Built with curiosity. Designed to go beyond the ordinary.**
+
+---
 ## About Me
 
 I'm a **Junior Software Developer** based in Turin, Italy, currently studying Software Development at **ITS Academy ICT Piemonte**.
