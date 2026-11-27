@@ -16,7 +16,7 @@
 </div>
 
 ---
-## 🌌 Event Horizon — My Portfolio
+## Event Horizon — My Portfolio
 
 <p align="center">
   <a href="https://danielsalamone.pages.dev/">
