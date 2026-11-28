@@ -73,7 +73,7 @@ Java · Python · JavaScript · C# · C++ · HTML · CSS
 
 ### Frameworks, Runtime & Platforms
 
-<img src="https://skillicons.dev/icons?i=react,flutter,nodejs,firebase&amp, Springboot;theme=dark" alt="React, Flutter, Node.js, Firebase, Springboot" />
+<img src="https://skillicons.dev/icons?i=react,flutter,nodejs,firebase&amp,springboot;theme=dark" alt="React, Flutter, Node.js, Firebase, Springboot" />
 
 React · Flutter · Node.js · Firebase · Springboot
 
